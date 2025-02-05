@@ -1,0 +1,2 @@
+# Overview
+For this project, Python will be used to perform an exploratory data analysis of the CCM Computing Courses Entry Surveys. This project should be able to provide helpful insight to the IT department to increase class enrollment. 
